@@ -1,0 +1,193 @@
+{
+  "settings": {
+    "name": "Milan Katira",
+    "title": "Senior Software Engineer",
+    "location": "USA",
+    "summary": "A highly skilled software engineer with expertise in frontend and backend development, specializing in scalable UI and API design.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:milankatira26@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "JavaScript",
+          "TypeScript",
+          "ReactJS",
+          "NextJS",
+          "NodeJS",
+          "MongoDB",
+          "PostgreSQL",
+          "Tailwind CSS"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Instaservice",
+          "position": "Senior Software Engineer",
+          "period": "Aug 2023 - Present",
+          "description": "Led frontend development for Instaservice.com and admin portal using TypeScript, React, React Query, and Tailwind. Built reusable design system in Storybook."
+        },
+        {
+          "company": "Cerebry",
+          "position": "Senior Software Engineer",
+          "period": "Feb 2023 - Aug 2023",
+          "description": "Built scalable UI for AI edtech platform using React, Preact, and SCSS, serving 20k+ weekly users. Improved UX through advanced charting and design collaboration."
+        },
+        {
+          "company": "ICS",
+          "position": "Junior Software Engineer",
+          "period": "Oct 2021 - Feb 2023",
+          "description": "Developed full-stack applications using ReactJS, Next.js, NodeJS, and MongoDB with TDD approach. Designed REST APIs and scalable database models for production systems."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "PING PANDA",
+          "description": "SaaS platform for real-time event alerts (sales, errors, sign-ups) to Discord with dashboard and Stripe billing",
+          "tags": [
+            "NEXT.JS",
+            "PRISMA",
+            "NODE.JS",
+            "TYPESCRIPT",
+            "STRIPE API",
+            "POSTGRESQL",
+            "DISCORD API"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "SHIPRIGHT",
+          "description": "Feature-voting platform with real-time analytics and responsive UI for prioritizing user feedback",
+          "tags": [
+            "NEXT.JS",
+            "REACT",
+            "TYPESCRIPT",
+            "TAILWIND CSS",
+            "CLERK",
+            "PRISMA",
+            "MONGODB"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "FEEDSPARK",
+          "description": "Feedback analytics system with surveys, sentiment analysis, NPS tracking, and multi-channel automations",
+          "tags": [
+            "NEXT.JS 14",
+            "TYPESCRIPT",
+            "TAILWIND CSS",
+            "SHADCN UI",
+            "PRISMA",
+            "MONGODB",
+            "ZOD",
+            "REACT"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "VVP Engineering College",
+          "degree": "B.E. Mechanical Engineering",
+          "period": "2018 - 2021"
+        },
+        {
+          "institution": "Government Polytechnic College",
+          "degree": "Diploma in Mechanical Engineering",
+          "period": "2015 - 2018"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "milankatira26@gmail.com",
+      "phone": "+91-7283899803",
+      "location": "USA"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/milan-katira",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/milankatira",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Milan Katira. All rights reserved."
+  }
+}
